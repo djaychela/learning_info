@@ -6,6 +6,7 @@ Links to future useful info I find and want to save for later.
 [https://news.ycombinator.com/item?id=15787023]
 
 ##Data Science:
+
 [http://p.migdal.pl/2016/03/15/data-science-intro-for-math-phys-background.html#python]
 
 [https://news.ycombinator.com/item?id=15127672]
@@ -13,6 +14,7 @@ Links to future useful info I find and want to save for later.
 [https://www.dataquest.io/blog/making-538-plots/]
 
 #Machine Learning:
+
 [https://www.analyticsvidhya.com/blog/2017/05/pydata-amsterdam-2017-machine-learning-deep-learning-data-science/]
 
 [http://imanmalik.com/cs/2017/06/05/neural-style.html]
@@ -59,6 +61,7 @@ Links to future useful info I find and want to save for later.
 [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/]
 
 ##CSCurriculum:
+
 [https://mindweb.network/board/computer-science-a-full-bachelor-curriculum]
 
 [https://github.com/jwasham/coding-interview-university]
@@ -89,6 +92,7 @@ Differential Equations
     Number Theory
     Real Analysis
 Discrete Mathematics
+
 [http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html]
 
 [https://www.amazon.com/dp/0992001005/noBSguide]
@@ -102,5 +106,6 @@ Discrete Mathematics
 [https://news.ycombinator.com/item?id=15146746]
 
 Bayesian Statistics:
+
 [https://news.ycombinator.com/item?id=15732926]
 
