@@ -5,7 +5,7 @@ Links to future useful info I find and want to save for later.
 
 [https://news.ycombinator.com/item?id=15787023]
 
-##Data Science:
+## Data Science:
 
 [http://p.migdal.pl/2016/03/15/data-science-intro-for-math-phys-background.html#python]
 
@@ -13,7 +13,7 @@ Links to future useful info I find and want to save for later.
 
 [https://www.dataquest.io/blog/making-538-plots/]
 
-#Machine Learning:
+## Machine Learning:
 
 [https://www.analyticsvidhya.com/blog/2017/05/pydata-amsterdam-2017-machine-learning-deep-learning-data-science/]
 
@@ -32,7 +32,7 @@ Links to future useful info I find and want to save for later.
 
 [https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2]
 
-##Books:
+## Books:
  
 [http://shop.oreilly.com/product/9780596516130.do]
 
@@ -43,7 +43,7 @@ Links to future useful info I find and want to save for later.
 [http://chimera.labs.oreilly.com/books/1234000001813/index.html]
 
 
-##Links:
+## Links:
 
 [https://news.ycombinator.com/item?id=14277039]
 
@@ -57,36 +57,36 @@ Links to future useful info I find and want to save for later.
 
 [https://medium.com/@kacawi/python-for-finance-algorithmic-trading-60fdfb9bb20d]
 
-##Maths for CS:
+## Maths for CS:
 [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/]
 
-##CSCurriculum:
+## CSCurriculum:
 
 [https://mindweb.network/board/computer-science-a-full-bachelor-curriculum]
 
 [https://github.com/jwasham/coding-interview-university]
 
 
-##Everything:
+## Everything:
 [https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524]
 
 [https://chrisalbon.com/]
 
-##Cryptocurrency:
+## Cryptocurrency:
 [https://blog.patricktriest.com/analyzing-cryptocurrencies-python/?utm_source=hackernews]
 
 [https://news.ycombinator.com/item?id=15063469]
 
-##Music AI
+## Music AI
 [https://rpiai.com/piano/]
 
-##Sudoku:
+## Sudoku:
 [http://norvig.com/sudoku.html]
 
-##Regex:
+## Regex:
 [https://blog.patricktriest.com/you-should-learn-regex/]
 
-##Maths:
+## Maths:
 Calculus
 Differential Equations
     Number Theory
@@ -107,7 +107,9 @@ Discrete Mathematics
 
 [https://news.ycombinator.com/item?id=15146746]
 
-Bayesian Statistics:
+[http://acko.net/blog/how-to-fold-a-julia-fractal/]
+
+## Bayesian Statistics:
 
 [https://news.ycombinator.com/item?id=15732926]
 
