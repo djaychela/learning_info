@@ -113,3 +113,6 @@ Discrete Mathematics
 
 [https://news.ycombinator.com/item?id=15732926]
 
+[https://medium.com/@benpshaver/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50] 
+
+
