@@ -77,6 +77,10 @@ Links to future useful info I find and want to save for later.
 
 [https://news.ycombinator.com/item?id=15063469]
 
+## Finance:
+
+[https://www.datacamp.com/community/tutorials/finance-python-trading]
+
 ## Music AI
 [https://rpiai.com/piano/]
 
