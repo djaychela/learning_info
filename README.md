@@ -9,7 +9,7 @@ Links to future useful info I find and want to save for later.
 
 [http://p.migdal.pl/2016/03/15/data-science-intro-for-math-phys-background.html#python]
 
-[https://news.ycombinator.com/item?id=15127672]
+[https://news.ycombinator.com/item?id=15127672] - Python Data Science Handbook
 
 [https://www.dataquest.io/blog/making-538-plots/]
 
@@ -22,7 +22,7 @@ Links to future useful info I find and want to save for later.
 
 [https://sadanand-singh.github.io/posts/treebasedmodels/#.WXT8Kli2pUw.hackernews]
 
-[https://news.ycombinator.com/item?id=14998352]
+[https://news.ycombinator.com/item?id=14998352] - HN Free ML/AI Resources
 
 [https://github.com/aymericdamien/TensorFlow-Examples/tree/master/]
 
@@ -103,19 +103,19 @@ Discrete Mathematics
 
 [https://www.amazon.com/dp/0992001005/noBSguide]
 
-[https://news.ycombinator.com/item?id=15116379]
+[https://news.ycombinator.com/item?id=15116379] - HN maths for AI/ML
 
-[https://news.ycombinator.com/item?id=14581273]
+[https://news.ycombinator.com/item?id=14581273] - HN Georgia Tech free maths textbooks
 
 [https://plus.maths.org/content/unveiling-mandelbrot-set]
 
-[https://news.ycombinator.com/item?id=15146746]
+[https://news.ycombinator.com/item?id=15146746] - IBM Maths of Machine Learning
 
 [http://acko.net/blog/how-to-fold-a-julia-fractal/]
 
 ## Bayesian Statistics:
 
-[https://news.ycombinator.com/item?id=15732926]
+[https://news.ycombinator.com/item?id=15732926] - Think Bayes - Bayesian Statistics Made Simple
 
 [https://medium.com/@benpshaver/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50] 
 
