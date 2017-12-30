@@ -66,6 +66,7 @@ Links to future useful info I find and want to save for later.
 
 [https://github.com/jwasham/coding-interview-university]
 
+[https://github.com/ossu/computer-science]
 
 ## Everything:
 [https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524]
