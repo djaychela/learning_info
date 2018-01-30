@@ -34,6 +34,8 @@ Links to future useful info I find and want to save for later.
 
 [https://news.ycombinator.com/item?id=16167620]
 
+[https://news.ycombinator.com/item?id=16247109]
+
 ## Books:
  
 [http://shop.oreilly.com/product/9780596516130.do]
