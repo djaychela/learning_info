@@ -36,6 +36,10 @@ Links to future useful info I find and want to save for later.
 
 [https://news.ycombinator.com/item?id=16247109]
 
+## Python 3
+
+[https://github.com/arogozhnikov/python3_with_pleasure]
+
 ## Books:
  
 [http://shop.oreilly.com/product/9780596516130.do]
