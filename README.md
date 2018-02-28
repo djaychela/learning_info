@@ -13,6 +13,10 @@ Links to future useful info I find and want to save for later.
 
 [https://www.dataquest.io/blog/making-538-plots/]
 
+## Numpy
+
+[https://www.machinelearningplus.com/101-numpy-exercises-python/]
+
 ## Machine Learning:
 
 [https://www.analyticsvidhya.com/blog/2017/05/pydata-amsterdam-2017-machine-learning-deep-learning-data-science/]
