@@ -15,7 +15,7 @@ Links to future useful info I find and want to save for later.
 
 ## Numpy
 
-[https://www.machinelearningplus.com/101-numpy-exercises-python/]
+[https://news.ycombinator.com/item?id=16473482]
 
 ## Machine Learning:
 
