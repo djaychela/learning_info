@@ -44,6 +44,10 @@ Links to future useful info I find and want to save for later.
 
 [https://github.com/arogozhnikov/python3_with_pleasure]
 
+## Programming Style:
+
+[https://henrikwarne.com/2018/03/13/exercises-in-programming-style/]
+
 ## Books:
  
 [http://shop.oreilly.com/product/9780596516130.do]
