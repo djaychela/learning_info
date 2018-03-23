@@ -40,6 +40,8 @@ Links to future useful info I find and want to save for later.
 
 [https://news.ycombinator.com/item?id=16247109]
 
+[http://mlreference.com/spacy] - Spacy NLP
+
 ## Python 3
 
 [https://github.com/arogozhnikov/python3_with_pleasure]
