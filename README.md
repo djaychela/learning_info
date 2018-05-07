@@ -13,6 +13,8 @@ Links to future useful info I find and want to save for later.
 
 [https://www.dataquest.io/blog/making-538-plots/]
 
+[https://github.com/cs109/2018-cs109b]
+
 ## Numpy
 
 [https://news.ycombinator.com/item?id=16473482]
