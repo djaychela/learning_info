@@ -5,6 +5,8 @@ Links to future useful info I find and want to save for later.
 
 [https://news.ycombinator.com/item?id=15787023]
 
+[https://pythonhow.com/link-python-challenges/?utm_content=educational&utm_campaign=2018-05-10&utm_source=email-sendgrid&utm_term=717783&utm_medium=1034284]
+
 ## Data Science:
 
 [http://p.migdal.pl/2016/03/15/data-science-intro-for-math-phys-background.html#python]
