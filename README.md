@@ -7,6 +7,8 @@ Links to future useful info I find and want to save for later.
 
 [https://pythonhow.com/link-python-challenges/?utm_content=educational&utm_campaign=2018-05-10&utm_source=email-sendgrid&utm_term=717783&utm_medium=1034284]
 
+[https://github.com/tuvtran/project-based-learning/blob/master/README.md?utm_content=educational&utm_campaign=2018-05-10&utm_source=email-sendgrid&utm_term=717783&utm_medium=1034284#python]
+
 ## Data Science:
 
 [http://p.migdal.pl/2016/03/15/data-science-intro-for-math-phys-background.html#python]
