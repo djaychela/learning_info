@@ -48,6 +48,10 @@ Links to future useful info I find and want to save for later.
 
 [http://mlreference.com/spacy] - Spacy NLP
 
+[https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced] - Spacy X100 speedup
+
+[https://medium.com/@karamanbk/39-machine-learning-resources-that-will-help-you-in-every-essential-step-b2696515ed9] - 39 Resources (medium.com)
+
 ## Python 3
 
 [https://github.com/arogozhnikov/python3_with_pleasure]
@@ -144,4 +148,6 @@ Discrete Mathematics
 
 [https://medium.com/@benpshaver/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50] 
 
+## Learning:
 
+[https://recurse.henrystanley.com/post/better/]
