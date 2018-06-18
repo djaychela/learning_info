@@ -52,6 +52,8 @@ Links to future useful info I find and want to save for later.
 
 [https://medium.com/@karamanbk/39-machine-learning-resources-that-will-help-you-in-every-essential-step-b2696515ed9] - 39 Resources (medium.com)
 
+[https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/] - ML and Open CV face recognition.
+
 ## Python 3
 
 [https://github.com/arogozhnikov/python3_with_pleasure]
