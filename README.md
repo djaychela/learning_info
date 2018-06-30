@@ -54,6 +54,8 @@ Links to future useful info I find and want to save for later.
 
 [https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/] - ML and Open CV face recognition.
 
+[http://explained.ai/matrix-calculus/index.html] - Maths for Deep Learning
+
 ## Python 3
 
 [https://github.com/arogozhnikov/python3_with_pleasure]
