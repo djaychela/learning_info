@@ -56,6 +56,8 @@ Links to future useful info I find and want to save for later.
 
 [http://explained.ai/matrix-calculus/index.html] - Maths for Deep Learning
 
+[https://thomas-tanay.github.io/post--L2-regularization/] - A new angle on L2 regularisation.
+
 ## Python 3
 
 [https://github.com/arogozhnikov/python3_with_pleasure]
