@@ -58,6 +58,10 @@ Links to future useful info I find and want to save for later.
 
 [https://thomas-tanay.github.io/post--L2-regularization/] - A new angle on L2 regularisation.
 
+[https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197] Notes for Fast.ai
+
+[https://www.zerotosingularity.com/blog/fast-ai-part-1-course-1-annotated-notes/] Notes for Fast.ai
+
 ## Python 3
 
 [https://github.com/arogozhnikov/python3_with_pleasure]
