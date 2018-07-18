@@ -96,6 +96,15 @@ Links to future useful info I find and want to save for later.
 ## Maths for CS:
 [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/]
 
+## Calculus:
+
+[https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/index.htm]
+
+[https://ocw.mit.edu/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/index.htm]
+
+[https://ocw.mit.edu/resources/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/index.htm]
+
+
 ## CSCurriculum:
 
 [https://mindweb.network/board/computer-science-a-full-bachelor-curriculum]
