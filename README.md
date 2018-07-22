@@ -168,3 +168,7 @@ Discrete Mathematics
 ## Learning:
 
 [https://recurse.henrystanley.com/post/better/]
+
+## Git:
+
+[https://rogerdudler.github.io/git-guide/]
