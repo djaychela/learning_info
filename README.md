@@ -60,6 +60,8 @@ Links to future useful info I find and want to save for later.
 
 [https://www.zerotosingularity.com/blog/fast-ai-part-1-course-1-annotated-notes/] Notes for Fast.ai
 
+[https://developers.google.com/machine-learning/guides/] - Google ML Guides
+
 ## Python 3
 
 [https://github.com/arogozhnikov/python3_with_pleasure]
