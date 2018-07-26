@@ -171,6 +171,8 @@ Discrete Mathematics
 
 [https://recurse.henrystanley.com/post/better/]
 
+[https://news.ycombinator.com/item?id=17616937] - learning sites/games etc
+
 ## Git:
 
 [https://rogerdudler.github.io/git-guide/]
