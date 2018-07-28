@@ -132,6 +132,9 @@ Links to future useful info I find and want to save for later.
 ## Music AI
 [https://rpiai.com/piano/]
 
+## Music Pi
+[https://news.ycombinator.com/item?id=17632999]
+
 ## Sudoku:
 [http://norvig.com/sudoku.html]
 
