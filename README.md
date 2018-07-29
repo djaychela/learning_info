@@ -179,3 +179,7 @@ Discrete Mathematics
 ## Git:
 
 [https://rogerdudler.github.io/git-guide/]
+
+## Background Jobs in Flask:
+
+[https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xxii-background-jobs]
