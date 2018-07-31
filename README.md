@@ -62,6 +62,8 @@ Links to future useful info I find and want to save for later.
 
 [https://developers.google.com/machine-learning/guides/] - Google ML Guides
 
+[http://blog.petersobot.com/machine-learning-for-drummers] - Drum Sample recognition using ML
+
 ## Python 3
 
 [https://github.com/arogozhnikov/python3_with_pleasure]
