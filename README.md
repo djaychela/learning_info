@@ -166,6 +166,8 @@ Discrete Mathematics
 
 [http://acko.net/blog/how-to-fold-a-julia-fractal/]
 
+[https://news.ycombinator.com/item?id=17664084] - Maths for ML
+
 ## Bayesian Statistics:
 
 [https://news.ycombinator.com/item?id=15732926] - Think Bayes - Bayesian Statistics Made Simple
