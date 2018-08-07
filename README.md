@@ -187,3 +187,8 @@ Discrete Mathematics
 ## Background Jobs in Flask:
 
 [https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xxii-background-jobs]
+
+
+## SQL discussion
+
+[https://news.ycombinator.com/item?id=17690780]
