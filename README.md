@@ -192,3 +192,7 @@ Discrete Mathematics
 ## SQL discussion
 
 [https://news.ycombinator.com/item?id=17690780]
+
+## Learning
+
+[https://news.ycombinator.com/item?id=17706776]
