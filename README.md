@@ -196,3 +196,7 @@ Discrete Mathematics
 ## Learning
 
 [https://news.ycombinator.com/item?id=17706776]
+
+## Pandas
+
+[http://pbpython.com/pandas-pivot-table-explained.html] - Pivot Tables
