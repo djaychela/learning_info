@@ -17,6 +17,8 @@ Links to future useful info I find and want to save for later.
 
 [https://github.com/cs109/2018-cs109b]
 
+[http://data8.org/] - Data 8
+
 ## Numpy
 
 [https://news.ycombinator.com/item?id=16473482]
