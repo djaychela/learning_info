@@ -19,6 +19,8 @@ Links to future useful info I find and want to save for later.
 
 [http://data8.org/] - Data 8
 
+[https://www.inferentialthinking.com/chapters/07/Visualization] - Data 8 Textbook so far...
+
 ## Numpy
 
 [https://news.ycombinator.com/item?id=16473482]
