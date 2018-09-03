@@ -182,6 +182,8 @@ Discrete Mathematics
 
 [https://news.ycombinator.com/item?id=17616937] - learning sites/games etc
 
+[https://news.ycombinator.com/item?id=17892796] - how to learn difficult things
+
 ## Git:
 
 [https://rogerdudler.github.io/git-guide/]
