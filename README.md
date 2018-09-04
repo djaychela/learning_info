@@ -195,9 +195,11 @@ Discrete Mathematics
 [https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xxii-background-jobs]
 
 
-## SQL discussion
+## SQL 
 
-[https://news.ycombinator.com/item?id=17690780]
+[https://news.ycombinator.com/item?id=17690780] - SQL discussion
+
+[https://news.ycombinator.com/item?id=17905666] - SQL interactive learning book
 
 ## Learning
 
