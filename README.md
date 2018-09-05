@@ -208,3 +208,7 @@ Discrete Mathematics
 ## Pandas
 
 [http://pbpython.com/pandas-pivot-table-explained.html] - Pivot Tables
+
+## Algorithms
+
+[https://visualgo.net/en] - Visual Algorithms
