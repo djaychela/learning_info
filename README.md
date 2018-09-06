@@ -172,6 +172,8 @@ Discrete Mathematics
 
 [https://news.ycombinator.com/item?id=17664084] - Maths for ML
 
+[https://news.ycombinator.com/item?id=17920650] - Differential Equations course
+
 ## Bayesian Statistics:
 
 [https://news.ycombinator.com/item?id=15732926] - Think Bayes - Bayesian Statistics Made Simple
