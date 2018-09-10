@@ -135,11 +135,13 @@ Links to future useful info I find and want to save for later.
 
 [https://www.datacamp.com/community/tutorials/finance-python-trading]
 
-## Music AI
-[https://rpiai.com/piano/]
+## Music
 
-## Music Pi
-[https://news.ycombinator.com/item?id=17632999]
+[https://rpiai.com/piano/] - Music AI
+
+[https://news.ycombinator.com/item?id=17632999] - Music Pi
+
+[https://towardsdatascience.com/making-music-when-simple-probabilities-outperform-deep-learning-75f4ee1b8e69] - DL vs probabilities
 
 ## Sudoku:
 [http://norvig.com/sudoku.html]
