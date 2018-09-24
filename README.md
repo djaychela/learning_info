@@ -68,6 +68,8 @@ Links to future useful info I find and want to save for later.
 
 [http://blog.petersobot.com/machine-learning-for-drummers] - Drum Sample recognition using ML
 
+[https://mlcourse.ai/] - Machine Learning Course
+
 ## Python 3
 
 [https://github.com/arogozhnikov/python3_with_pleasure]
