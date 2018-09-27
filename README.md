@@ -218,3 +218,5 @@ Discrete Mathematics
 ## Algorithms
 
 [https://visualgo.net/en] - Visual Algorithms
+
+[https://bradfieldcs.com/algos/] - Practical Algorithms and Data Structures
