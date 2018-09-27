@@ -78,6 +78,8 @@ Links to future useful info I find and want to save for later.
 
 [https://henrikwarne.com/2018/03/13/exercises-in-programming-style/]
 
+[http://treyhunner.com/2018/09/stop-writing-lambda-expressions/] - Lambda Expressions
+
 ## Books:
  
 [http://shop.oreilly.com/product/9780596516130.do]
