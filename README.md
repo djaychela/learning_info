@@ -222,3 +222,9 @@ Discrete Mathematics
 [https://visualgo.net/en] - Visual Algorithms
 
 [https://bradfieldcs.com/algos/] - Practical Algorithms and Data Structures
+
+## UI
+
+[https://github.com/dddomodossola/remi] - Remote UI
+
+[https://build-system.fman.io/pyqt5-tutorial] - PyQT5 Tutorial
