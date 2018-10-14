@@ -70,6 +70,8 @@ Links to future useful info I find and want to save for later.
 
 [https://mlcourse.ai/] - Machine Learning Course
 
+[https://github.com/open-source-for-science/TensorFlow-Course] - TensorFlow course
+
 ## Python 3
 
 [https://github.com/arogozhnikov/python3_with_pleasure]
