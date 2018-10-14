@@ -76,6 +76,8 @@ Links to future useful info I find and want to save for later.
 
 [https://github.com/arogozhnikov/python3_with_pleasure]
 
+[http://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/] - * and ** operators
+
 ## Programming Style:
 
 [https://henrikwarne.com/2018/03/13/exercises-in-programming-style/]
