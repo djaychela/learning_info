@@ -227,6 +227,8 @@ Discrete Mathematics
 
 [https://bradfieldcs.com/algos/] - Practical Algorithms and Data Structures
 
+[https://adrianmejia.com/blog/2018/04/04/how-you-can-change-the-world-learning-data-structures-algorithms-free-online-course-tutorial/#.W8dYeheQiu0.hackernews] - Data Structures and Algorithms (DSA) for Beginners
+
 ## UI
 
 [https://github.com/dddomodossola/remi] - Remote UI
