@@ -21,6 +21,8 @@ Links to future useful info I find and want to save for later.
 
 [https://www.inferentialthinking.com/chapters/07/Visualization] - Data 8 Textbook so far...
 
+[https://j253.github.io/blog/fun-with-nfl-stats.html] - Fun with NFL Stats
+
 ## Numpy
 
 [https://news.ycombinator.com/item?id=16473482]
@@ -228,6 +230,8 @@ Discrete Mathematics
 [https://bradfieldcs.com/algos/] - Practical Algorithms and Data Structures
 
 [https://adrianmejia.com/blog/2018/04/04/how-you-can-change-the-world-learning-data-structures-algorithms-free-online-course-tutorial/#.W8dYeheQiu0.hackernews] - Data Structures and Algorithms (DSA) for Beginners
+
+[https://news.ycombinator.com/item?id=18443311] - Infinite City generation
 
 ## UI
 
