@@ -241,3 +241,7 @@ Discrete Mathematics
 ## Jupyter Notebooks:
 
 [https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/] - Working Efficiently with Jupyter Notebooks
+
+## Vector Graphics:
+
+[https://zulko.github.io/blog/2014/09/20/vector-animations-with-python/] - Gizeh library
