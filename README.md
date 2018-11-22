@@ -196,6 +196,8 @@ Discrete Mathematics
 
 [https://recurse.henrystanley.com/post/better/]
 
+[https://news.ycombinator.com/item?id=17706776]
+
 [https://news.ycombinator.com/item?id=17616937] - learning sites/games etc
 
 [https://news.ycombinator.com/item?id=17892796] - how to learn difficult things
@@ -215,9 +217,6 @@ Discrete Mathematics
 
 [https://news.ycombinator.com/item?id=17905666] - SQL interactive learning book
 
-## Learning
-
-[https://news.ycombinator.com/item?id=17706776]
 
 ## Pandas
 
@@ -238,3 +237,7 @@ Discrete Mathematics
 [https://github.com/dddomodossola/remi] - Remote UI
 
 [https://build-system.fman.io/pyqt5-tutorial] - PyQT5 Tutorial
+
+## Jupyter Notebooks:
+
+[https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/] - Working Efficiently with Jupyter Notebooks
