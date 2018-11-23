@@ -245,3 +245,7 @@ Discrete Mathematics
 ## Vector Graphics:
 
 [https://zulko.github.io/blog/2014/09/20/vector-animations-with-python/] - Gizeh library
+
+## Git:
+
+[https://learngitbranching.js.org/] - Learn Git branching
