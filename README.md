@@ -249,3 +249,7 @@ Discrete Mathematics
 ## Git:
 
 [https://learngitbranching.js.org/] - Learn Git branching
+
+## Visualisation:
+
+[https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/] - Top 50 plots
