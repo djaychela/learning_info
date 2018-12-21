@@ -234,6 +234,8 @@ Discrete Mathematics
 
 [https://news.ycombinator.com/item?id=18443311] - Infinite City generation
 
+[https://runestone.academy/runestone/static/pythonds/index.html] - Problem Solving with Algorithms
+
 ## UI
 
 [https://github.com/dddomodossola/remi] - Remote UI
