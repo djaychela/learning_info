@@ -76,6 +76,8 @@ Links to future useful info I find and want to save for later.
 
 [https://towardsdatascience.com/the-cold-start-problem-how-to-build-your-machine-learning-portfolio-6718b4ae83e9] - Building an ML portfolio
 
+[https://github.com/trekhleb/homemade-machine-learning/blob/master/README.md] - ML Algorithms in Jupyter
+
 ## Python 3
 
 [https://github.com/arogozhnikov/python3_with_pleasure]
