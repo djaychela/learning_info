@@ -261,3 +261,7 @@ Discrete Mathematics
 ## Visualisation:
 
 [https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/] - Top 50 plots
+
+## Git:
+
+[https://news.ycombinator.com/item?id=18919599] - learning GIT
