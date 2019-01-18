@@ -120,6 +120,8 @@ Links to future useful info I find and want to save for later.
 ## Maths for CS:
 [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/]
 
+[https://news.ycombinator.com/item?id=18939913] - Self study maths
+
 ## Calculus:
 
 [https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/index.htm]
