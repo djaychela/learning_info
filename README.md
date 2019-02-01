@@ -266,3 +266,6 @@ Discrete Mathematics
 
 [https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/] - Top 50 plots
 
+## React:
+
+[https://news.ycombinator.com/item?id=19050509] - learn React fundamentals
