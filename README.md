@@ -212,7 +212,9 @@ Discrete Mathematics
 
 ## Git:
 
-[https://rogerdudler.github.io/git-guide/]
+[https://rogerdudler.github.io/git-guide/] - Git command guide
+
+[https://learngitbranching.js.org/] - Learn Git branching
 
 ## Background Jobs in Flask:
 
@@ -255,10 +257,6 @@ Discrete Mathematics
 ## Vector Graphics:
 
 [https://zulko.github.io/blog/2014/09/20/vector-animations-with-python/] - Gizeh library
-
-## Git:
-
-[https://learngitbranching.js.org/] - Learn Git branching
 
 [https://news.ycombinator.com/item?id=18919599] - learning GIT
 
