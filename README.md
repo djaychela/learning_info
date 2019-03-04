@@ -194,6 +194,8 @@ Discrete Mathematics
 
 [https://news.ycombinator.com/item?id=17920650] - Differential Equations course
 
+[http://joshua.smcvt.edu/linearalgebra/] - Free linear algebra textbook
+
 ## Bayesian Statistics:
 
 [https://news.ycombinator.com/item?id=15732926] - Think Bayes - Bayesian Statistics Made Simple
