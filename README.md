@@ -196,6 +196,8 @@ Discrete Mathematics
 
 [http://joshua.smcvt.edu/linearalgebra/] - Free linear algebra textbook
 
+[https://vankessel.io/blog/2019/01/06/visualizing-complex-functions] - Visualising Complex functions
+
 ## Bayesian Statistics:
 
 [https://news.ycombinator.com/item?id=15732926] - Think Bayes - Bayesian Statistics Made Simple
