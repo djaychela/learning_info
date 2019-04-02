@@ -271,3 +271,7 @@ Discrete Mathematics
 ## React:
 
 [https://news.ycombinator.com/item?id=19050509] - learn React fundamentals
+
+## Django:
+
+[https://news.ycombinator.com/item?id=19542975] - pandas/jupyter comment
