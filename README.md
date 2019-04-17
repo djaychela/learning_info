@@ -231,6 +231,9 @@ Discrete Mathematics
 
 [https://news.ycombinator.com/item?id=17905666] - SQL interactive learning book
 
+## Databases
+
+[http://webcache.googleusercontent.com/search?q=cache:z-c0s5-AdZ8J:coding-geek.com/how-databases-work/+&cd=12&hl=en&ct=clnk] - how relational databases work
 
 ## Pandas
 
@@ -275,3 +278,5 @@ Discrete Mathematics
 ## Django:
 
 [https://news.ycombinator.com/item?id=19542975] - pandas/jupyter comment
+
+[http://shibel.blot.im/django-keeping-logic-out-of-templates-and-views] - keeping logic out of templates
