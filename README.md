@@ -280,3 +280,7 @@ Discrete Mathematics
 [https://news.ycombinator.com/item?id=19542975] - pandas/jupyter comment
 
 [http://shibel.blot.im/django-keeping-logic-out-of-templates-and-views] - keeping logic out of templates
+
+## NLP:
+
+[https://course.spacy.io/] - SpaCy course
