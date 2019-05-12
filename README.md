@@ -80,6 +80,8 @@ Links to future useful info I find and want to save for later.
 
 [https://github.com/trekhleb/homemade-machine-learning/blob/master/README.md] - ML Algorithms in Jupyter
 
+[https://github.com/machinelearningmindset/machine-learning-course] - ML Course (github)
+
 ## Python 3
 
 [https://github.com/arogozhnikov/python3_with_pleasure]
