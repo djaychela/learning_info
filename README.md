@@ -94,6 +94,8 @@ Links to future useful info I find and want to save for later.
 
 [http://treyhunner.com/2018/09/stop-writing-lambda-expressions/] - Lambda Expressions
 
+[https://lwn.net/Articles/787800/] - inheritance vs composition
+
 ## Books:
  
 [http://shop.oreilly.com/product/9780596516130.do]
