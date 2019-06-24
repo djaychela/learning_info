@@ -82,6 +82,8 @@ Links to future useful info I find and want to save for later.
 
 [https://github.com/machinelearningmindset/machine-learning-course] - ML Course (github)
 
+[https://github.com/keras-team/keras-tuner] - Keras tuner (Hyperparameters)
+
 ## Python 3
 
 [https://github.com/arogozhnikov/python3_with_pleasure]
@@ -125,6 +127,8 @@ Links to future useful info I find and want to save for later.
 [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/]
 
 [https://news.ycombinator.com/item?id=18939913] - Self study maths
+
+[https://github.com/MikeInnes/diff-zoo] - Differentiation for hackers
 
 ## Calculus:
 
