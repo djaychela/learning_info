@@ -269,6 +269,8 @@ Discrete Mathematics
 
 [https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/] - Working Efficiently with Jupyter Notebooks
 
+[https://github.com/hemanta212/blogger-cli] - Jupyter to blog
+
 ## Vector Graphics:
 
 [https://zulko.github.io/blog/2014/09/20/vector-animations-with-python/] - Gizeh library
@@ -292,3 +294,5 @@ Discrete Mathematics
 ## NLP:
 
 [https://course.spacy.io/] - SpaCy course
+
+
