@@ -25,6 +25,8 @@ Links to future useful info I find and want to save for later.
 
 [https://mlwhiz.com/blog/2018/12/07/connected_components/] - Graph Theory in Data Science
 
+[https://www.dataquest.io/blog/math-in-data-science/] - Maths in Data Science
+
 ## Numpy
 
 [https://news.ycombinator.com/item?id=16473482]
