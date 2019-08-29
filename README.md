@@ -141,13 +141,15 @@ Links to future useful info I find and want to save for later.
 [https://ocw.mit.edu/resources/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/index.htm]
 
 
-## CSCurriculum:
+## CS:
 
 [https://mindweb.network/board/computer-science-a-full-bachelor-curriculum]
 
 [https://github.com/jwasham/coding-interview-university]
 
 [https://github.com/ossu/computer-science]
+
+[https://news.ycombinator.com/item?id=20729252] - Books for CS HN Thread
 
 ## Everything:
 [https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524]
