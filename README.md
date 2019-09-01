@@ -86,6 +86,8 @@ Links to future useful info I find and want to save for later.
 
 [https://github.com/keras-team/keras-tuner] - Keras tuner (Hyperparameters)
 
+[https://iq.opengenus.org/face-aging-cgan-keras/] - Face aging using Keras
+
 ## Python 3
 
 [https://github.com/arogozhnikov/python3_with_pleasure]
