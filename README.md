@@ -253,6 +253,8 @@ Discrete Mathematics
 
 [http://pbpython.com/pandas-pivot-table-explained.html] - Pivot Tables
 
+[https://kanoki.org/2019/09/16/dataframe-visualization-with-pandas-plot/] - Data Visualisation with Pandas
+
 ## Algorithms
 
 [https://visualgo.net/en] - Visual Algorithms
