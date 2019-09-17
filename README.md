@@ -88,6 +88,8 @@ Links to future useful info I find and want to save for later.
 
 [https://iq.opengenus.org/face-aging-cgan-keras/] - Face aging using Keras
 
+[https://yugeten.github.io/posts/2019/09/GP/] - Gaussian Processes
+
 ## Python 3
 
 [https://github.com/arogozhnikov/python3_with_pleasure]
