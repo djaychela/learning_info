@@ -136,6 +136,8 @@ Links to future useful info I find and want to save for later.
 
 [https://github.com/MikeInnes/diff-zoo] - Differentiation for hackers
 
+[https://github.com/llSourcell/learn_math_fast] - Learn Maths Fast
+
 ## Calculus:
 
 [https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/index.htm]
