@@ -151,7 +151,7 @@ Links to future useful info I find and want to save for later.
 
 [https://github.com/jwasham/coding-interview-university]
 
-[https://github.com/ossu/computer-science]
+[https://github.com/ossu/computer-science] - OSSU CS Curriculum
 
 [https://news.ycombinator.com/item?id=20729252] - Books for CS HN Thread
 
