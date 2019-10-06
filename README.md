@@ -27,6 +27,8 @@ Links to future useful info I find and want to save for later.
 
 [https://www.dataquest.io/blog/math-in-data-science/] - Maths in Data Science
 
+[https://news.ycombinator.com/item?id=21158487] - Streamlit library
+
 ## Numpy
 
 [https://news.ycombinator.com/item?id=16473482]
