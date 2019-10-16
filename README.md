@@ -159,6 +159,8 @@ Links to future useful info I find and want to save for later.
 
 [https://news.ycombinator.com/item?id=20729252] - Books for CS HN Thread
 
+[https://skerritt.blog/big-o/] - Big O notation with Python Examples
+
 ## Everything:
 [https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524]
 
