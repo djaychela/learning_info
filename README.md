@@ -220,6 +220,8 @@ Discrete Mathematics
 
 [https://vankessel.io/blog/2019/01/06/visualizing-complex-functions] - Visualising Complex functions
 
+[https://thonyc.wordpress.com/2019/10/16/calculus-for-the-curious/] - Calculus for the Curious
+
 ## Bayesian Statistics:
 
 [https://news.ycombinator.com/item?id=15732926] - Think Bayes - Bayesian Statistics Made Simple
@@ -298,6 +300,8 @@ Discrete Mathematics
 ## Visualisation:
 
 [https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/] - Top 50 plots
+
+[https://www.labri.fr/perso/nrougier/python-opengl/#python-opengl-for-scientific-visualization] - Python and OpenGL Viz
 
 ## React:
 
