@@ -183,6 +183,8 @@ Links to future useful info I find and want to save for later.
 
 [https://towardsdatascience.com/making-music-when-simple-probabilities-outperform-deep-learning-75f4ee1b8e69] - DL vs probabilities
 
+[https://github.com/deezer/spleeter] - Splitting audio into stems using ML
+
 ## Sudoku:
 [http://norvig.com/sudoku.html]
 
