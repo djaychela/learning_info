@@ -185,6 +185,8 @@ Links to future useful info I find and want to save for later.
 
 [https://github.com/deezer/spleeter] - Splitting audio into stems using ML
 
+[https://nolannicholson.com/looper.html] - Seamlessly looping Music
+
 ## Sudoku:
 [http://norvig.com/sudoku.html]
 
