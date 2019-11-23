@@ -177,6 +177,8 @@ Links to future useful info I find and want to save for later.
 
 [https://github.com/cantaro86/Financial-Models-Numerical-Methods] - Jupyter notebook collection
 
+[https://python.quantecon.org/] - Quant Econ
+
 ## Music
 
 [https://rpiai.com/piano/] - Music AI
