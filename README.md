@@ -175,6 +175,8 @@ Links to future useful info I find and want to save for later.
 
 [https://www.datacamp.com/community/tutorials/finance-python-trading]
 
+[https://github.com/cantaro86/Financial-Models-Numerical-Methods] - Jupyter notebook collection
+
 ## Music
 
 [https://rpiai.com/piano/] - Music AI
