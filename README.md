@@ -179,6 +179,8 @@ Links to future useful info I find and want to save for later.
 
 [https://python.quantecon.org/] - Quant Econ
 
+[https://www.tradientblog.com/2019/11/lessons-learned-building-an-ml-trading-system-that-turned-5k-into-200k/] - Making $200k
+
 ## Music
 
 [https://rpiai.com/piano/] - Music AI
