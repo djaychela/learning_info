@@ -7,6 +7,8 @@ Links to future useful info I find and want to save for later.
 
 [https://github.com/tuvtran/project-based-learning/blob/master/README.md#python] - Project-based learning
 
+[https://web.eecs.utk.edu/~azh/blog/challengingprojects.html] - Projects every programmer should try
+
 ## Data Science:
 
 [http://p.migdal.pl/2016/03/15/data-science-intro-for-math-phys-background.html#python]
