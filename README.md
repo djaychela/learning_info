@@ -329,4 +329,7 @@ Discrete Mathematics
 
 [https://course.spacy.io/] - SpaCy course
 
+## OCR:
+
+[https://nanonets.com/blog/ocr-with-tesseract/] - Ocr with pytesseract
 
