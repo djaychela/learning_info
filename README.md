@@ -258,6 +258,8 @@ Discrete Mathematics
 
 [https://bitbucket.org/BitPusher16/dotfiles/raw/49a01d929dcaebcca68bbb1859b4ac1aea93b073/refs/git/git_examples.sh] - Git commands in one script
 
+[https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/] How to do almost anything with Git
+
 ## Background Jobs in Flask:
 
 [https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xxii-background-jobs]
