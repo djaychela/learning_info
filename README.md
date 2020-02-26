@@ -235,6 +235,9 @@ Discrete Mathematics
 [https://thonyc.wordpress.com/2019/10/16/calculus-for-the-curious/] - Calculus for the Curious
 
 [https://www.neilwithdata.com/mathematics-self-learner] - Maths for the self-learner
+
+[https://betterexplained.com/articles/linear-algebra-guide/] - Linear Algebra guide
+
 ## Bayesian Statistics:
 
 [https://news.ycombinator.com/item?id=15732926] - Think Bayes - Bayesian Statistics Made Simple
