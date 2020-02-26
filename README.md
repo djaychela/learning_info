@@ -336,3 +336,6 @@ Discrete Mathematics
 
 [https://nanonets.com/blog/ocr-with-tesseract/] - Ocr with pytesseract
 
+## Hacking
+
+[https://pwn.college/modules/suid] - Pwn College
