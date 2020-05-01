@@ -94,6 +94,8 @@ Links to future useful info I find and want to save for later.
 
 [https://yugeten.github.io/posts/2019/09/GP/] - Gaussian Processes
 
+[https://ranvir.xyz/blog/svm-support-vector-machines-in-machine-learning/] - SVM Intro for ML
+
 ## Python 3
 
 [https://github.com/arogozhnikov/python3_with_pleasure]
