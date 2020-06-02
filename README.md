@@ -344,3 +344,7 @@ Discrete Mathematics
 ## Hacking
 
 [https://pwn.college/modules/suid] - Pwn College
+
+## Debugging and Logging
+
+[https://martinheinz.dev/blog/24] - Debugging and logging with Python
