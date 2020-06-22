@@ -165,6 +165,8 @@ Links to future useful info I find and want to save for later.
 
 [https://skerritt.blog/big-o/] - Big O notation with Python Examples
 
+[https://teachyourselfcs.com/] - Teach Yourself CS
+
 ## Everything:
 [https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524]
 
