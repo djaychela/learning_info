@@ -348,3 +348,7 @@ Discrete Mathematics
 ## Debugging and Logging
 
 [https://martinheinz.dev/blog/24] - Debugging and logging with Python
+
+## JavaScript
+
+[https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/] - A little bit of JS can do a lot
