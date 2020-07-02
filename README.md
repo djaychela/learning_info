@@ -354,3 +354,7 @@ Discrete Mathematics
 ## JavaScript
 
 [https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/] - A little bit of JS can do a lot
+
+## Libraries
+
+[https://github.com/kotartemiy/pygooglenews] - PyGoogle News - Google News Reader
